@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "definition_version": "0.1.0",
+  "status": "bootstrap_candidate",
+  "company_id": "paprika-reading-club",
+  "repository": "newbiesitl/paprika-reading-club",
+  "topology": "single_host",
+  "runtime": "codex_local",
+  "constitution": "company/CONSTITUTION.md",
+  "coordinator_role": "coordinator",
+  "roles": [
+    {
+      "id": "coordinator",
+      "version": "0.1.0",
+      "definition": "company/roles/coordinator/agent.md"
+    },
+    {
+      "id": "curator",
+      "version": "0.1.0",
+      "definition": "company/roles/curator/agent.md"
+    },
+    {
+      "id": "researcher",
+      "version": "0.1.0",
+      "definition": "company/roles/researcher/agent.md"
+    },
+    {
+      "id": "scientific-reviewer",
+      "version": "0.1.0",
+      "definition": "company/roles/scientific-reviewer/agent.md"
+    },
+    {
+      "id": "methodologist",
+      "version": "0.1.0",
+      "definition": "company/roles/methodologist/agent.md"
+    }
+  ],
+  "ownership": "company/ownership.json",
+  "work_tracking": "company/WORK.md",
+  "knowledge_policy": "private_runtime_location",
+  "runtime_state": "private_enrollment_required",
+  "messaging": {
+    "default_receiving": "on_demand",
+    "background_monitoring": false
+  },
+  "lifecycle": {
+    "max_instances_per_role": 1,
+    "require_verified_project_membership": true,
+    "automatic_takeover": false
+  },
+  "adoption": {
+    "automatic": false,
+    "policy": "company/ADOPTION.md"
+  }
+}

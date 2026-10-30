@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "recovered_on": "2026-10-30",
+  "sources": [
+    {
+      "id": "arxiv:2608.24571",
+      "title": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+      "authors": "Zhi Rui Tam; Chieh-Yen Lin; Yun-Nung Chen; Shao-Hua Sun; Hung-yi Lee",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2608.24571v1",
+      "version": "v1; SMITH",
+      "provenance": "user-shared",
+      "access": "abstract-only",
+      "reason": "The human shared the PDF and asked about reward construction, GRPO/DAPO/PPO, tool consumers, and personalization.",
+      "question": "What joint training signal makes generated tools correct, usable, and useful across consumers?",
+      "metadata_status": "verified-primary-source-2026-10-30",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending"
+    },
+    {
+      "id": "arxiv:2502.18965",
+      "title": "OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment",
+      "authors": "Jiaxin Deng; Shiyao Wang; Kuo Cai; Lejian Ren; Qigen Hu; Weifeng Ding; Qiang Luo; Guorui Zhou",
+      "year": 2025,
+      "url": "https://arxiv.org/abs/2502.18965v1",
+      "version": "v1",
+      "provenance": "user-shared",
+      "access": "abstract-only",
+      "reason": "The human supplied the exact title and asked about hard negatives, behavioral world models, and exploration.",
+      "question": "How do recommendation generation, preference alignment, response prediction, and exploration differ?",
+      "metadata_status": "verified-primary-source-2026-10-30",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending"
+    },
+    {
+      "id": "arxiv:2610.14550",
+      "url": "https://arxiv.org/abs/2610.14550",
+      "label": "LLM-based User-Product Relevance Evaluation for Dynamic Product Advertising",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2602.01563",
+      "url": "https://arxiv.org/abs/2602.01563",
+      "label": "AdNanny: One Reasoning LLM for All Offline Ads Recommendation Tasks",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2508.12628",
+      "url": "https://arxiv.org/abs/2508.12628",
+      "label": "Creative4U: MLLMs-based Advertising Creative Image Selector with Comparative Reasoning",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2507.21983",
+      "url": "https://arxiv.org/abs/2507.21983",
+      "label": "Improving Generative Ad Text on Facebook using Reinforcement Learning",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2505.04209",
+      "url": "https://arxiv.org/abs/2505.04209",
+      "label": "To Judge or not to Judge: Using LLM Judgements for Advertiser Keyphrase Relevance at eBay",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "https://pubsonline.informs.org/doi/10.1287/mksc.2024.0990",
+      "url": "https://pubsonline.informs.org/doi/10.1287/mksc.2024.0990",
+      "label": "LOLA: LLM-Assisted Online Learning Algorithm for Content Experiments",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2607.23696",
+      "url": "https://arxiv.org/abs/2607.23696",
+      "label": "Offline-to-Online Creative Optimization with Generative Models and Adaptive Testing",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2609.01038",
+      "url": "https://arxiv.org/abs/2609.01038",
+      "label": "Data-Driven Persona-Conditioned Agents for A/B Test Simulation",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2609.25010",
+      "url": "https://arxiv.org/abs/2609.25010",
+      "label": "Do Synthetic Personas Predict Real Audience Response?",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2311.07363",
+      "url": "https://arxiv.org/abs/2311.07363",
+      "label": "Example polyphonic DDSP extension",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2407.05516",
+      "url": "https://arxiv.org/abs/2407.05516",
+      "label": "Differentiable modal synthesis",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2211.00943",
+      "url": "https://arxiv.org/abs/2211.00943",
+      "label": "Causal waveform guitar-timbre model",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2602.07803",
+      "title": "SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis",
+      "authors": "Jiale Qian et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2602.07803v1",
+      "version": "shared v1; v2 also exists",
+      "provenance": "user-shared",
+      "access": "abstract-only",
+      "reason": "The human shared v1 and asked whether it was similar to DDSP and useful for polyphonic timbre conversion.",
+      "question": "Which conditioning assumptions transfer from singing synthesis to polyphonic instrument transformation?",
+      "metadata_status": "verified-primary-source-2026-10-30",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending"
+    },
+    {
+      "id": "arxiv:2001.04643",
+      "title": "DDSP: Differentiable Digital Signal Processing",
+      "authors": "Jesse Engel; Lamtharn Hantrakul; Chenjie Gu; Adam Roberts",
+      "year": 2020,
+      "url": "https://arxiv.org/abs/2001.04643v1",
+      "version": "v1",
+      "provenance": "user-mentioned",
+      "access": "abstract-only",
+      "reason": "The human explicitly asked for a DDSP comparison; the assistant supplied this canonical reference.",
+      "question": "When do differentiable signal-processing priors help, and where do their source assumptions become restrictive?",
+      "metadata_status": "verified-primary-source-2026-10-30",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending"
+    },
+    {
+      "id": "arxiv:2610.26684",
+      "url": "https://arxiv.org/abs/2610.26684",
+      "label": "MuLaCover",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.28043",
+      "url": "https://arxiv.org/abs/2610.28043",
+      "label": "Differentiable Karplus–Strong sound matching",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.28100",
+      "url": "https://arxiv.org/abs/2610.28100",
+      "label": "Transformer-based plate-parameter recovery",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.27023",
+      "url": "https://arxiv.org/abs/2610.27023",
+      "label": "Point2Acoustic",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.27491",
+      "url": "https://arxiv.org/abs/2610.27491",
+      "label": "MiCLA",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.29928",
+      "url": "https://arxiv.org/abs/2610.29928",
+      "label": "Learned musical-time coordinates",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.32870",
+      "url": "https://arxiv.org/abs/2610.32870",
+      "label": "Sinkhorn drifting with unpaired clean audio",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.32007",
+      "url": "https://arxiv.org/abs/2610.32007",
+      "label": "MI-MIDI 2",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.32749",
+      "url": "https://arxiv.org/abs/2610.32749",
+      "label": "Falcon streaming extraction",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.32310",
+      "url": "https://arxiv.org/abs/2610.32310",
+      "label": "Physics-generated acoustic-source supervision",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.31796",
+      "url": "https://arxiv.org/abs/2610.31796",
+      "label": "DRAMA-Eval",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.34415",
+      "url": "https://arxiv.org/abs/2610.34415",
+      "label": "AMBIT plan-driven Ambisonics generation and editing",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.35741",
+      "url": "https://arxiv.org/abs/2610.35741",
+      "label": "Learned 6DoF Ambisonic interpolation",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.33113",
+      "url": "https://arxiv.org/abs/2610.33113",
+      "label": "JIT-MPE",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.34694",
+      "url": "https://arxiv.org/abs/2610.34694",
+      "label": "Gangqinpu",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.34408",
+      "url": "https://arxiv.org/abs/2610.34408",
+      "label": "LeanTTS",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.36715",
+      "url": "https://arxiv.org/abs/2610.36715",
+      "label": "SMEBENCH",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.36786",
+      "url": "https://arxiv.org/abs/2610.36786",
+      "label": "Controllable expressive-guitar synthesis",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.37024",
+      "url": "https://arxiv.org/abs/2610.37024",
+      "label": "StreamSE",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.36568",
+      "url": "https://arxiv.org/abs/2610.36568",
+      "label": "TAC2",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.36713",
+      "url": "https://arxiv.org/abs/2610.36713",
+      "label": "EvoSpeakerMem",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "https://research.google/pubs/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-of-experts",
+      "url": "https://research.google/pubs/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-of-experts/",
+      "label": "MMoE",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1706.02216",
+      "url": "https://arxiv.org/abs/1706.02216",
+      "label": "GraphSAGE",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1909.04847",
+      "url": "https://arxiv.org/abs/1909.04847",
+      "label": "RecSim",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1103.4601",
+      "url": "https://arxiv.org/abs/1103.4601",
+      "label": "Dudík et al., 2011",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2412.04484",
+      "url": "https://arxiv.org/abs/2412.04484",
+      "label": "Meta · Epinet, 2024",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "https://doi.org/10.1145/3637528.3671649",
+      "url": "https://doi.org/10.1145/3637528.3671649",
+      "label": "Google authors · mtNLB, KDD 2024",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "https://aclanthology.org/2025.emnlp-industry.161",
+      "url": "https://aclanthology.org/2025.emnlp-industry.161/",
+      "label": "pEBR, EMNLP Industry 2025",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2606.04603",
+      "url": "https://arxiv.org/abs/2606.04603",
+      "label": "DINOSAUR, 2026 preprint",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "https://jmlr.org/papers/v27/25-0030.html",
+      "url": "https://jmlr.org/papers/v27/25-0030.html",
+      "label": "Spotify · Impatient Bandits, JMLR 2026",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "https://www.amazon.science/publications/off-policy-evaluation-of-candidate-generators-in-two-stage-recommender-systems",
+      "url": "https://www.amazon.science/publications/off-policy-evaluation-of-candidate-generators-in-two-stage-recommender-systems",
+      "label": "Candidate-generator OPE",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2305.07764",
+      "url": "https://arxiv.org/abs/2305.07764",
+      "label": "long-term exploration experiments",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2610.26825",
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "authors": "Zhiyu Li et al.",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2610.26825v2",
+      "version": "v2",
+      "provenance": "user-mentioned",
+      "access": "abstract-only",
+      "reason": "The human referred to MemT-1 while requesting memory alternatives; an earlier research document resolved it to this paper.",
+      "question": "How does native memory compare with retrieval, compressed state, and sequence encoders for an actual downstream task?",
+      "metadata_status": "verified-primary-source-2026-10-30",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending"
+    },
+    {
+      "id": "arxiv:1905.09248",
+      "url": "https://arxiv.org/abs/1905.09248",
+      "label": "MIMN",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2006.05639",
+      "url": "https://arxiv.org/abs/2006.05639",
+      "label": "SIM",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2302.02352",
+      "url": "https://arxiv.org/abs/2302.02352",
+      "label": "TWIN",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2505.04421",
+      "url": "https://arxiv.org/abs/2505.04421",
+      "label": "LONGER",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2207.06881",
+      "url": "https://arxiv.org/abs/2207.06881",
+      "label": "RMT",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1911.05507",
+      "url": "https://arxiv.org/abs/1911.05507",
+      "label": "Compressive Transformer",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2312.00752",
+      "url": "https://arxiv.org/abs/2312.00752",
+      "label": "Mamba",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2501.00663",
+      "url": "https://arxiv.org/abs/2501.00663",
+      "label": "Titans",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2310.08560",
+      "url": "https://arxiv.org/abs/2310.08560",
+      "label": "MemGPT",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2608.10257",
+      "url": "https://arxiv.org/abs/2608.10257",
+      "label": "Netflix GenRec",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1003.0146",
+      "url": "https://arxiv.org/abs/1003.0146",
+      "label": "Li et al. (2010)",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1707.06347",
+      "url": "https://arxiv.org/abs/1707.06347",
+      "label": "PPO",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2402.03300",
+      "url": "https://arxiv.org/abs/2402.03300",
+      "label": "GRPO",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2305.18290",
+      "url": "https://arxiv.org/abs/2305.18290",
+      "label": "DPO",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2504.08169",
+      "url": "https://arxiv.org/abs/2504.08169",
+      "label": "Pinterest: DHEN CVR; Appendix A total 340M (2025)",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2202.05387",
+      "url": "https://arxiv.org/abs/2202.05387",
+      "label": "Twitter: TwHIN graph representations (KDD 2022)",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2007.03634",
+      "url": "https://arxiv.org/abs/2007.03634",
+      "label": "Pinterest: PinnerSage multi-interest representations (2020)",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:2209.07562",
+      "url": "https://arxiv.org/abs/2209.07562",
+      "label": "Twitter: TwHIN-BERT text / social representations (2022–23)",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "arxiv:1806.01973",
+      "url": "https://arxiv.org/abs/1806.01973",
+      "label": "Pinterest: PinSage graph embeddings (KDD 2018)",
+      "provenance": "assistant-discovered",
+      "metadata_status": "pending-verification"
+    },
+    {
+      "id": "sutton2019bitter",
+      "title": "The Bitter Lesson",
+      "authors": "Richard S. Sutton",
+      "year": 2019,
+      "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+      "version": "2019-03-13 essay",
+      "provenance": "user-requested",
+      "access": "full-text",
+      "reason": "Explicitly selected as a key methodology in the initialization conversation.",
+      "question": "Which approaches can keep improving as computation and learning opportunities grow?",
+      "metadata_status": "verified-primary-source-2026-10-30",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending"
+    }
+  ]
+}
