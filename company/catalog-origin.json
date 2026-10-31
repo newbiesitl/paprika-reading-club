@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source_catalog": {
+    "version": "0.2.0",
+    "sha256": "23b590be16cca2f29aeda495af7f0cebe60bfe539b1fb55f5fb267ff41a1d714"
+  },
+  "source_preset": "scientific-research",
+  "structure": "research-lab",
+  "selection_status": "custom-user-selected-roster",
+  "selected_roles": [
+    "coordinator",
+    "curator",
+    "researcher",
+    "scientific-reviewer",
+    "methodologist"
+  ],
+  "note": "Custom five-role refinement. Curator and Methodologist are custom role IDs; this is provenance, not a catalog config export or a runtime binding."
+}
