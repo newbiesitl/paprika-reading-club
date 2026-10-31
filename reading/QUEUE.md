@@ -10,5 +10,10 @@ Priority is proposed unless explicitly selected by the human. All human reading 
 | Proposed | [SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis](../library/arxiv-2602.07803.md) | inbox | Which conditioning assumptions transfer from singing synthesis to polyphonic instrument transformation? |
 | Proposed | [DDSP: Differentiable Digital Signal Processing](../library/arxiv-2001.04643.md) | inbox | When do differentiable signal-processing priors help, and where do their source assumptions become restrictive? |
 | Proposed | [MemT-1.0: Towards Memory-Native Evolution](../library/arxiv-2610.26825.md) | inbox | How does native memory compare with retrieval, compressed state, and sequence encoders for an actual downstream task? |
+| Human-mentioned | [From Tokens to Bytes I: Scaling Hierarchical Networks](../library/cartesia2026tokensbytes.md) | inbox | Which gains come from learned segmentation, hierarchy, training data, or compute allocation? |
+| Proposed | [Dynamic Chunking for End-to-End Hierarchical Sequence Modeling](../library/arxiv-2507.07955.md) | inbox | How is chunking learned, what constraints remain, and what controls isolate the benefit? |
+| Proposed | [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](../library/arxiv-1712.01815.md) | inbox | What prior knowledge remains when human demonstrations are removed? |
+| Proposed | [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](../library/arxiv-1911.08265.md) | inbox | What must a learned model preserve for planning to work, and when does model error break search? |
+| Proposed | [Mastering Diverse Domains through World Models](../library/arxiv-2301.04104.md) | inbox | How do imagined rollouts improve behavior, and how are errors in those rollouts controlled? |
 
 The [additional recovered leads](../intake/RECOVERED.md) stay outside the active reading queue until triaged.
