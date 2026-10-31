@@ -9,4 +9,4 @@ These are limited observations from accessible conversations, not a psychologica
 | Evaluate the whole system’s cost | Asked about total latency and cost, including tool creation and external API execution | Evidence comes from one explicit evaluation question | proposed |
 | Connect prediction with exploration and feedback | Asked whether graphical models could include exploration in the recommendation loop | Does not establish a preference for any specific graphical or causal model | proposed |
 
-The Bitter Lesson is the one explicitly selected foundational reference so far. No inferred principle has been marked human-confirmed.
+The Bitter Lesson is explicitly selected. Learning beyond imitation and world modeling are now explicit human directions in [core ideology](core-ideology.md). The four narrower patterns above remain inferred proposals; the new statements do not retroactively confirm every inference.

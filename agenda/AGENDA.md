@@ -1,6 +1,6 @@
 # Research agenda
 
-The following are provisional clusters from accessible discussions, not confirmed long-term priorities:
+The human has selected learning beyond imitation and world modeling as main research directions, with The Bitter Lesson as a methodological anchor. The focused questions below remain proposed reading projects:
 
 | Question | Starting material | Next useful step |
 | --- | --- | --- |
@@ -9,4 +9,4 @@ The following are provisional clusters from accessible discussions, not confirme
 | How far can simulated or judged user preferences support online decisions? | LLM judges and advertising literature intake | Separate screening, prediction, and causal lift; identify required live validation |
 | Which methods continue improving as compute, data, or interaction increases? | The Bitter Lesson | Compare a scalable baseline with a specialized alternative under explicit budgets |
 
-Music/audio and world-model literature may be added as its earlier references are recovered and identified. The Research Director chooses the first focused reading cycle.
+The [core ideology](../methodology/core-ideology.md) adds AlphaZero, learned byte hierarchies, MuZero, and DreamerV3 as a connected reading path. Music/audio references remain available in the library. The Research Director chooses the first focused reading cycle.
