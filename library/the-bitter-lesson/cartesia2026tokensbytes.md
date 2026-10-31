@@ -11,6 +11,8 @@
 - Human reading status: unknown
 - Independent scientific review: pending
 
+- Category: [The Bitter Lesson](README.md)
+
 ## Why it is in this library
 
 The human named this article as an example of reducing human-imposed representation constraints.
@@ -25,4 +27,4 @@ Related primary paper: [HNet](arxiv-2507.07955.md).
 
 Which gains come from learned segmentation, hierarchy, training data, or compute allocation?
 
-Use the [paper-note template](../templates/paper-note.md) for full reading and evidence checks. Inclusion does not establish human endorsement of every claim.
+Use the [paper-note template](../../templates/paper-note.md) for full reading and evidence checks. Inclusion does not establish human endorsement of every claim.

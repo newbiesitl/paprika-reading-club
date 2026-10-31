@@ -531,7 +531,11 @@
       "question": "Which approaches can keep improving as computation and learning opportunities grow?",
       "metadata_status": "verified-primary-source-2026-10-30",
       "human_reading_status": "unknown",
-      "scientific_review_status": "pending"
+      "scientific_review_status": "pending",
+      "categories": [
+        "the-bitter-lesson"
+      ],
+      "note_path": "library/the-bitter-lesson/sutton2019bitter.md"
     },
     {
       "id": "cartesia2026tokensbytes",
@@ -546,7 +550,11 @@
       "question": "Which gains come from learned segmentation, hierarchy, training data, or compute allocation?",
       "metadata_status": "verified-primary-source-2026-10-31",
       "human_reading_status": "unknown",
-      "scientific_review_status": "pending"
+      "scientific_review_status": "pending",
+      "categories": [
+        "the-bitter-lesson"
+      ],
+      "note_path": "library/the-bitter-lesson/cartesia2026tokensbytes.md"
     },
     {
       "id": "arxiv:2507.07955",
@@ -561,7 +569,11 @@
       "question": "How is chunking learned, what constraints remain, and what controls isolate the benefit?",
       "metadata_status": "verified-primary-source-2026-10-31",
       "human_reading_status": "unknown",
-      "scientific_review_status": "pending"
+      "scientific_review_status": "pending",
+      "categories": [
+        "the-bitter-lesson"
+      ],
+      "note_path": "library/the-bitter-lesson/arxiv-2507.07955.md"
     },
     {
       "id": "arxiv:1712.01815",
@@ -576,7 +588,11 @@
       "question": "What prior knowledge remains when human demonstrations are removed?",
       "metadata_status": "verified-primary-source-2026-10-31",
       "human_reading_status": "unknown",
-      "scientific_review_status": "pending"
+      "scientific_review_status": "pending",
+      "categories": [
+        "the-bitter-lesson"
+      ],
+      "note_path": "library/the-bitter-lesson/arxiv-1712.01815.md"
     },
     {
       "id": "arxiv:1911.08265",
@@ -607,6 +623,26 @@
       "metadata_status": "verified-primary-source-2026-10-31",
       "human_reading_status": "unknown",
       "scientific_review_status": "pending"
+    },
+    {
+      "id": "doi:10.1038/nature16961",
+      "title": "Mastering the game of Go with deep neural networks and tree search",
+      "authors": "David Silver and others",
+      "year": 2016,
+      "url": "https://doi.org/10.1038/nature16961",
+      "verification_url": "https://research.google/pubs/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/",
+      "version": "published 2016-01-27; Nature 529, 484–489; AlphaGo",
+      "provenance": "assistant-identified-from-user-example",
+      "access": "abstract-only",
+      "reason": "The human requested AlphaGo and AlphaZero under Sutton's The Bitter Lesson category; the assistant identified the original AlphaGo paper.",
+      "question": "What does each of supervised bootstrapping, self-play improvement, value estimation, and search contribute?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "the-bitter-lesson"
+      ],
+      "note_path": "library/the-bitter-lesson/silver2016alphago.md"
     }
   ]
 }

@@ -16,7 +16,7 @@ The human cited AlphaGo to AlphaZero, LLM supervised fine-tuning to RL, and lear
 
 “Escaping local minima” expresses an ambition to move beyond narrow human priors. It is not an established guarantee about an optimizer. “Broader search space” is the operational aim: every experiment still has constraints imposed by its objectives, environment, observations, model class, and resources. Removing a useful prior can also make learning less efficient.
 
-Sources: [AlphaGo Zero author account](https://deepmind.google/blog/alphago-zero-starting-from-scratch/), [AlphaZero](../library/arxiv-1712.01815.md), and [From Tokens to Bytes I](../library/cartesia2026tokensbytes.md).
+Sources: [AlphaGo Zero author account](https://deepmind.google/blog/alphago-zero-starting-from-scratch/), [AlphaZero](../library/the-bitter-lesson/arxiv-1712.01815.md), and [From Tokens to Bytes I](../library/the-bitter-lesson/cartesia2026tokensbytes.md).
 
 ## 2. Learn world models for planning and discovery
 

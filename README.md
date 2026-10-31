@@ -12,7 +12,7 @@ A personal research institute managed with Paprika Inc. The human Research Direc
 - [Recovered-paper intake](intake/RECOVERED.md)
 - [Research agenda](agenda/AGENDA.md)
 - [Core research ideology](methodology/core-ideology.md): learning beyond imitation and world modeling
-- [The Bitter Lesson](methodology/the-bitter-lesson.md), a human-selected foundational methodology
+- [The Bitter Lesson](methodology/the-bitter-lesson.md), a human-selected foundational methodology; [related reading category](library/the-bitter-lesson/README.md)
 - [Operating model](docs/OPERATING_MODEL.md) and [reading workflow](docs/READING_WORKFLOW.md)
 - [Company definition](company/company.json), [role contracts](company/roles/), and the canonical [ownership map](company/ownership.json)
 - [Current work](work/INDEX.md)

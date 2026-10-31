@@ -27,3 +27,7 @@ For each major research proposal, ask:
 Treat latency, data quality, feedback availability, energy, and deployment constraints as explicit experimental conditions. A hand-designed prior may be useful at a particular budget; test its benefit rather than rejecting it by slogan. Scaling predictive accuracy does not establish causal validity, and a fluent generated explanation does not establish understanding.
 
 This checklist is our proposed interpretation for research decisions. The human selected the source; they have not yet confirmed every checklist item as a personal principle.
+
+## Related reading category
+
+See [The Bitter Lesson reading map](../library/the-bitter-lesson/README.md) for the essay, AlphaGo, AlphaZero, From Tokens to Bytes I, and its HNet architecture reference.
