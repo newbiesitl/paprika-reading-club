@@ -1,5 +1,9 @@
 # Paprika Reading Club
 
+<p align="center">
+  <img src="assets/paprika-reading-club-icon.png" alt="Paprika Reading Club mascot with an open-book emblem" width="240" height="240">
+</p>
+
 A personal research institute managed with Paprika Inc. The human Research Director chooses the questions; five specialist roles curate, read, challenge, and distill evidence into a revisable research practice.
 
 ## Start here

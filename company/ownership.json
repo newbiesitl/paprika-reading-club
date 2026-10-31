@@ -30,6 +30,13 @@
       ]
     },
     {
+      "path": "assets/",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
       "path": "agenda/",
       "owner_role": "coordinator",
       "reviewer_roles": [
