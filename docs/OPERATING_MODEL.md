@@ -4,15 +4,17 @@
 
 Use a small personal research institute with a question-led agenda and independent scientific review. The useful inspiration from a large research lab is sustained inquiry, criticism, and transfer between ideas and experiments. At this stage, the outputs are a curated library, evidence-linked syntheses, and an evolving methodology.
 
-The human is Research Director: sets priorities, supplies reactions, confirms personal principles, and decides publication. The Coordinator is the intake contact. The other four roles report progress to the Coordinator; review relationships are defined separately in the role contracts and ownership map.
+The human is Research Director: sets priorities, supplies reactions, confirms personal principles, and decides publication. The Coordinator is the intake contact. The other six roles report progress to the Coordinator under authorized assignments; review relationships are defined separately in the role contracts and ownership map.
 
 | Role | Main outcome |
 | --- | --- |
 | Coordinator | A coherent agenda, clear assignments, and tracked decisions |
 | Curator | A deduplicated, attributed library and prioritized queue |
 | Researcher | Mechanism-level notes and cross-paper syntheses |
+| Literature Reviewer | Scoped searches, study screening, critical appraisal, and traceable literature reviews |
 | Scientific Reviewer | Independent checks of evidence and conclusions |
 | Methodologist | Revisable research principles and belief-change records |
+| Backend Engineer | Tested backend logic, reusable skill tooling, MCP integrations, and harness API adapters |
 
 Release preparation is a bounded Coordinator duty for this small roster, with independent review and human publication authority. Add a separate Release Engineer when reproducible code, datasets, multiple parallel PRs, or recurring releases justify the workload. Add topic specialists after recurring demand becomes clear.
 
@@ -28,4 +30,8 @@ The general [Paprika ML Research skill](../skills/paprika-ml-research/SKILL.md) 
 
 Keep the user’s native model defaults unless they select explicit overrides. Paprika’s optional recommendation for Coordinator and Researcher is `gpt-6-astra` with `xhigh` effort where supported; this is a preference to discuss, not a tested accuracy guarantee or an applied setting.
 
-The optional `research-core` pack offers paper lookup, literature review, citation management, and scientific critical thinking. Researcher and Scientific Reviewer are suitable users, with the latter reviewing the former’s scientific claims. The initial manifest does not install or activate that pack. Select and install it separately if desired; API access and full-text availability still need evidence.
+The Literature Reviewer selects Paprika Inc’s `research-core` pack in the company manifest: paper lookup, literature review, citation management, and scientific critical thinking. The user requested project-local installation and a dedicated chat using `gpt-6-astra` with `xhigh` effort; native settings and onboarding evidence are recorded privately. Skill integrity, native discovery, and scholarly API/full-text access are separate checks.
+
+The Literature Reviewer develops the review protocol, search and screening record, evidence table, and thematic synthesis. The Curator maintains shared source records, the Researcher handles close mechanism-level readings and experiment proposals, and the Scientific Reviewer independently checks substantive review conclusions. Project-local skills may be visible to other project chats; the role’s skill selection is guidance, not an access control.
+
+The Backend Engineer selects `engineering-core` for Paprika’s code-review guidance. The user selected `gpt-6.1-sol` with `xhigh` reasoning for its dedicated chat. It implements scoped backend, skill, MCP, and harness changes using supported APIs and proportionate tests. Technical acceptance belongs to the human or a separately assigned independent engineering reviewer; the existing scientific roles review domain meaning and claims. The Methodologist retains responsibility for research-method content. Source publication, installed copies, native discovery, and live integration behavior are checked separately.

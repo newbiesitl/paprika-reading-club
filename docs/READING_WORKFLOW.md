@@ -15,3 +15,5 @@ For reusable scientific decision support, continue through the [research skill w
 Queue states: `inbox`, `selected`, `reading`, `notes-ready`, `reviewed`, `synthesized`, `deferred`. A source’s queue state does not imply that the human personally read it. Keep human reading status separately as `unknown`, `skimmed`, or `read`.
 
 For a public repository, keep raw conversation excerpts and private reflections in `private/` (ignored), and runtime routing under Git’s common directory. Public notes may contain research metadata and deliberately prepared summaries, not native chat IDs or service bindings.
+
+For a question spanning a body of literature, use the [Literature Reviewer](../company/roles/literature-reviewer/agent.md) and [review workspace](../literature-reviews/README.md). Establish review type and criteria, log searches and screening, appraise included studies, and submit the synthesis for independent scientific review. Social posts can supply discovery leads; preserve their provenance and verify scientific claims against the cited primary studies.

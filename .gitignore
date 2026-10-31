@@ -9,3 +9,9 @@ private/
 local-only/
 # Local discovery copy; canonical source is skills/paprika-ml-research/.
 .agents/skills/paprika-ml-research/
+# Installed Paprika Inc packs; reproduce them from the role manifest (docs/ROLE_SKILLS.md).
+.agents/skills/paper-lookup/
+.agents/skills/literature-review/
+.agents/skills/citation-management/
+.agents/skills/scientific-critical-thinking/
+.agents/skills/paprika-code-review/

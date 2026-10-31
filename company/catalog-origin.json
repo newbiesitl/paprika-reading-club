@@ -11,8 +11,10 @@
     "coordinator",
     "curator",
     "researcher",
+    "literature-reviewer",
     "scientific-reviewer",
-    "methodologist"
+    "methodologist",
+    "backend-engineer"
   ],
-  "note": "Custom five-role refinement. Curator and Methodologist are custom role IDs; this is provenance, not a catalog config export or a runtime binding."
+  "note": "Initial five-role refinement extended with human-requested Literature Reviewer (research-core) and Backend Engineer (engineering-core). Custom role selections are provenance, not a catalog config export or a runtime binding."
 }
