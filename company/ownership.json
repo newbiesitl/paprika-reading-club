@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "path": "README.md",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": ".gitignore",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "company/",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "docs/",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "agenda/",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "work/",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "library/",
+      "owner_role": "curator",
+      "reviewer_roles": [
+        "researcher"
+      ]
+    },
+    {
+      "path": "reading/",
+      "owner_role": "curator",
+      "reviewer_roles": [
+        "researcher"
+      ]
+    },
+    {
+      "path": "intake/",
+      "owner_role": "curator",
+      "reviewer_roles": [
+        "researcher"
+      ]
+    },
+    {
+      "path": "notes/",
+      "owner_role": "researcher",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "syntheses/",
+      "owner_role": "researcher",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "reviews/",
+      "owner_role": "scientific-reviewer",
+      "reviewer_roles": [
+        "methodologist"
+      ]
+    },
+    {
+      "path": "methodology/",
+      "owner_role": "methodologist",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "reflections/",
+      "owner_role": "methodologist",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "templates/",
+      "owner_role": "methodologist",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    }
+  ]
+}
