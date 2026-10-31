@@ -378,12 +378,17 @@
       "url": "https://arxiv.org/abs/2610.26825v2",
       "version": "v2",
       "provenance": "user-mentioned",
-      "access": "abstract-only",
+      "access": "selected-sections",
       "reason": "The human referred to MemT-1 while requesting memory alternatives; an earlier research document resolved it to this paper.",
       "question": "How does native memory compare with retrieval, compressed state, and sequence encoders for an actual downstream task?",
       "metadata_status": "verified-primary-source-2026-10-30",
       "human_reading_status": "unknown",
-      "scientific_review_status": "pending"
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2610.26825.md",
+      "last_inspected": "2026-10-31"
     },
     {
       "id": "arxiv:1905.09248",
@@ -436,10 +441,24 @@
     },
     {
       "id": "arxiv:2501.00663",
-      "url": "https://arxiv.org/abs/2501.00663",
+      "url": "https://arxiv.org/abs/2501.00663v1",
       "label": "Titans",
       "provenance": "assistant-discovered",
-      "metadata_status": "pending-verification"
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "title": "Titans: Learning to Memorize at Test Time",
+      "authors": "Ali Behrouz; Peilin Zhong; Vahab Mirrokni",
+      "year": 2024,
+      "version": "v1, submitted 2024-12-31; January 2025 arXiv listing",
+      "access": "abstract-only",
+      "reason": "A broader neural-memory comparison; promoted from an existing recovered lead.",
+      "question": "How should short-term attention and learned long-term memory divide the retention workload?",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2501.00663.md",
+      "relationship_to_memt": "related-architecture"
     },
     {
       "id": "arxiv:2310.08560",
@@ -643,6 +662,165 @@
         "the-bitter-lesson"
       ],
       "note_path": "library/the-bitter-lesson/silver2016alphago.md"
+    },
+    {
+      "id": "arxiv:2610.02140",
+      "title": "Finetuning with Sampling: SFT Learns Better Than You Think",
+      "authors": "Aayush Karan; Sitan Chen; Yilun Du",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2610.02140v1",
+      "version": "v1, 2026-10-01",
+      "provenance": "user-requested",
+      "access": "abstract-and-author-project-page",
+      "reason": "Selected by the human to seed the supervised-learning and fine-tuning category.",
+      "question": "How much of the SFT-versus-RL gap comes from training-data distribution rather than the objective itself?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "supervised-learning-and-fine-tuning"
+      ],
+      "note_path": "library/supervised-learning-and-fine-tuning/arxiv-2610.02140.md"
+    },
+    {
+      "id": "arxiv:2607.26760",
+      "title": "Metis: Memory Foundation Model",
+      "authors": "Zeyu Zhang and others",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2607.26760v2",
+      "version": "v2, 2026-08-04",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "The predecessor identified in the MemT-1.0 introduction.",
+      "question": "What changes when moving from Metis memory selection to MemT-1 token-level updates?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2607.26760.md",
+      "relationship_to_memt": "direct-predecessor"
+    },
+    {
+      "id": "arxiv:2605.22791",
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "authors": "Ali Hatamizadeh; Yejin Choi; Jan Kautz",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2605.22791v1",
+      "version": "v1, 2026-05-21",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "MemT-1.0 identifies GDN-2 as the basis of its stabilized token-level memory update.",
+      "question": "How do separate erase and write gates affect interference, retention, and update stability?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2605.22791.md",
+      "relationship_to_memt": "architectural-component"
+    },
+    {
+      "id": "arxiv:2605.12357",
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "authors": "Jingdi Lei and others",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2605.12357v2",
+      "version": "v2, 2026-09-28",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "An online associative-memory comparator evaluated in MemT-1.0.",
+      "question": "What can a small online state retain, and when does low-rank coupling become a bottleneck?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2605.12357.md",
+      "relationship_to_memt": "evaluated-baseline"
+    },
+    {
+      "id": "arxiv:2608.02515",
+      "title": "LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference",
+      "authors": "Zhichen Liu and others",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2608.02515v2",
+      "version": "v2, 2026-08-07",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "A persistent-state comparator evaluated in MemT-1.0.",
+      "question": "What information survives after its supporting tokens leave the active context?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2608.02515.md",
+      "relationship_to_memt": "evaluated-baseline"
+    },
+    {
+      "id": "arxiv:2402.04624",
+      "title": "MEMORYLLM: Towards Self-Updatable Large Language Models",
+      "authors": "Yu Wang and others",
+      "year": 2024,
+      "url": "https://arxiv.org/abs/2402.04624v2",
+      "version": "v2, 2024-05-26",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "An earlier latent-memory approach also evaluated in MemT-1.0.",
+      "question": "How do repeated memory updates affect retention, correction, and interference?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2402.04624.md",
+      "relationship_to_memt": "evaluated-baseline"
+    },
+    {
+      "id": "arxiv:2602.15902",
+      "title": "Doc-to-LoRA: Learning to Instantly Internalize Contexts",
+      "authors": "Rujikorn Charakorn; Edoardo Cetin; Shinnosuke Uesaka; Robert Tjarko Lange",
+      "year": 2026,
+      "url": "https://arxiv.org/abs/2602.15902v1",
+      "version": "v1, 2026-02-13",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "A context-internalization comparator evaluated in MemT-1.0; a different mechanism from recurrent memory.",
+      "question": "Can generated adapters support accumulated experience, and how does adapter construction compare with recurrent writes?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2602.15902.md",
+      "relationship_to_memt": "evaluated-baseline-alternative-mechanism"
+    },
+    {
+      "id": "arxiv:2407.04620",
+      "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+      "authors": "Yu Sun and others",
+      "year": 2024,
+      "url": "https://arxiv.org/abs/2407.04620v4",
+      "version": "v4, 2025-08-31; first submitted 2024-07-05",
+      "provenance": "assistant-discovered",
+      "access": "abstract-only",
+      "reason": "A broader framework for understanding learned memory updates.",
+      "question": "What is gained or lost when the memory state is itself a small model trained on the current stream?",
+      "metadata_status": "verified-primary-source-2026-10-31",
+      "human_reading_status": "unknown",
+      "scientific_review_status": "pending",
+      "categories": [
+        "memory-networks"
+      ],
+      "note_path": "library/memory-networks/arxiv-2407.04620.md",
+      "relationship_to_memt": "related-architecture"
     }
   ]
 }

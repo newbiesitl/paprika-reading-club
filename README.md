@@ -9,6 +9,8 @@ A personal research institute managed with Paprika Inc. The human Research Direc
 ## Start here
 
 - [Reading queue](reading/QUEUE.md) and [source library](library/INDEX.md)
+- [Supervised Learning and Fine-Tuning](library/supervised-learning-and-fine-tuning/README.md)
+- [Memory Networks](library/memory-networks/README.md), starting with MemT-1 and related approaches
 - [Recovered-paper intake](intake/RECOVERED.md)
 - [Research agenda](agenda/AGENDA.md)
 - [Core research ideology](methodology/core-ideology.md): learning beyond imitation and world modeling
