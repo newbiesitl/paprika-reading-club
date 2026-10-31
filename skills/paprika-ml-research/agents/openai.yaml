@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paprika ML Research"
+  short_description: "Turn research evidence into ML design decisions"
+  default_prompt: "Use $paprika-ml-research to select evidence-backed methods for this ML problem, compare alternatives, and design the next informative experiment."

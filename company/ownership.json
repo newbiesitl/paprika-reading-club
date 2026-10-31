@@ -2,6 +2,13 @@
   "schema_version": 1,
   "entries": [
     {
+      "path": "skills/paprika-ml-research/",
+      "owner_role": "methodologist",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
       "path": "README.md",
       "owner_role": "coordinator",
       "reviewer_roles": [
@@ -24,13 +31,6 @@
     },
     {
       "path": "docs/",
-      "owner_role": "coordinator",
-      "reviewer_roles": [
-        "scientific-reviewer"
-      ]
-    },
-    {
-      "path": "assets/",
       "owner_role": "coordinator",
       "reviewer_roles": [
         "scientific-reviewer"
@@ -112,6 +112,50 @@
       "reviewer_roles": [
         "scientific-reviewer"
       ]
+    },
+    {
+      "path": "literature-reviews/",
+      "owner_role": "literature-reviewer",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "assets/",
+      "owner_role": "coordinator",
+      "reviewer_roles": [
+        "scientific-reviewer"
+      ]
+    },
+    {
+      "path": "backend/",
+      "owner_role": "backend-engineer",
+      "reviewer_roles": []
+    },
+    {
+      "path": "mcp/",
+      "owner_role": "backend-engineer",
+      "reviewer_roles": []
+    },
+    {
+      "path": "harness/",
+      "owner_role": "backend-engineer",
+      "reviewer_roles": []
+    },
+    {
+      "path": "skills/backend/",
+      "owner_role": "backend-engineer",
+      "reviewer_roles": []
+    },
+    {
+      "path": "tests/",
+      "owner_role": "backend-engineer",
+      "reviewer_roles": []
+    },
+    {
+      "path": "scripts/",
+      "owner_role": "backend-engineer",
+      "reviewer_roles": []
     }
   ]
 }

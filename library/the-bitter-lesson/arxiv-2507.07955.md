@@ -11,6 +11,8 @@
 - Human reading status: unknown
 - Independent scientific review: pending
 
+- Category: [The Bitter Lesson](README.md)
+
 ## Why it is in this library
 
 Primary architecture reference linked by the human-mentioned Cartesia article.
@@ -23,4 +25,4 @@ HNet is the underlying learned hierarchical sequence-modeling reference. Read it
 
 How is chunking learned, what constraints remain, and what controls isolate the benefit?
 
-Use the [paper-note template](../templates/paper-note.md) for full reading and evidence checks. Inclusion does not establish human endorsement of every claim.
+Use the [paper-note template](../../templates/paper-note.md) for full reading and evidence checks. Inclusion does not establish human endorsement of every claim.

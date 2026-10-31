@@ -4,15 +4,21 @@
   <img src="assets/paprika-reading-club-icon.png" alt="Paprika Reading Club mascot with an open-book emblem" width="240" height="240">
 </p>
 
-A personal research institute managed with Paprika Inc. The human Research Director chooses the questions; five specialist roles curate, read, challenge, and distill evidence into a revisable research practice.
+A personal research institute managed with Paprika Inc. The human Research Director chooses the questions; seven specialist roles curate, read, review literature, challenge, distill evidence, and build the supporting research tools.
 
 ## Start here
 
 - [Reading queue](reading/QUEUE.md) and [source library](library/INDEX.md)
+- [Supervised Learning and Fine-Tuning](library/supervised-learning-and-fine-tuning/README.md)
+- [Memory Networks](library/memory-networks/README.md), starting with MemT-1 and related approaches
 - [Recovered-paper intake](intake/RECOVERED.md)
 - [Research agenda](agenda/AGENDA.md)
+- [Reusable ML research skill](docs/RESEARCH_SKILL.md) and [decision methods](methodology/methods/INDEX.md)
+- [Literature-review workspace](literature-reviews/README.md) and [Literature Reviewer role](company/roles/literature-reviewer/agent.md)
+- [Backend Engineer role](company/roles/backend-engineer/agent.md): skill tooling, MCP integrations, and harness APIs
+- [Role skill installation](docs/ROLE_SKILLS.md)
 - [Core research ideology](methodology/core-ideology.md): learning beyond imitation and world modeling
-- [The Bitter Lesson](methodology/the-bitter-lesson.md), a human-selected foundational methodology
+- [The Bitter Lesson](methodology/the-bitter-lesson.md), a human-selected foundational methodology; [related reading category](library/the-bitter-lesson/README.md)
 - [Operating model](docs/OPERATING_MODEL.md) and [reading workflow](docs/READING_WORKFLOW.md)
 - [Company definition](company/company.json), [role contracts](company/roles/), and the canonical [ownership map](company/ownership.json)
 - [Current work](work/INDEX.md)

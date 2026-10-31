@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "definition_version": "0.1.0",
+  "definition_version": "0.3.0",
   "status": "bootstrap_candidate",
   "company_id": "paprika-reading-club",
   "repository": "newbiesitl/paprika-reading-club",
@@ -25,6 +25,14 @@
       "definition": "company/roles/researcher/agent.md"
     },
     {
+      "id": "literature-reviewer",
+      "version": "0.1.0",
+      "definition": "company/roles/literature-reviewer/agent.md",
+      "skill_sets": [
+        "research-core"
+      ]
+    },
+    {
       "id": "scientific-reviewer",
       "version": "0.1.0",
       "definition": "company/roles/scientific-reviewer/agent.md"
@@ -33,6 +41,14 @@
       "id": "methodologist",
       "version": "0.1.0",
       "definition": "company/roles/methodologist/agent.md"
+    },
+    {
+      "id": "backend-engineer",
+      "version": "0.1.0",
+      "definition": "company/roles/backend-engineer/agent.md",
+      "skill_sets": [
+        "engineering-core"
+      ]
     }
   ],
   "ownership": "company/ownership.json",

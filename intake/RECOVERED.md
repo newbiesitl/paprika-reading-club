@@ -2,6 +2,8 @@
 
 Recovered on 2026-10-30 from accessible recent and archived conversations and a related research document. **69 distinct linked sources** are registered: **6 core identities checked against primary sources** and **63 leads awaiting fresh verification**.
 
+Counts above describe the original recovery pass. Current verification and category status are maintained in the [source library](../library/INDEX.md).
+
 This is a best-effort seed, not an exhaustive export of the human’s history. The available recent-chat listing exposed at most 50 unpinned chats; the archived listing returned 32. Relevant sources inspected included paper-review, OneRec, LLM-judge, audio-synthesis, world-model, and research-roadmap discussions. Long histories and attachment-only citations may be incomplete. Older unarchived reading chats were not exhaustively searchable through the available history tools.
 
 `user-shared` means the human supplied an exact title or link. `user-mentioned` means a method or shorthand was named by the human and a reference was resolved separately. `assistant-discovered` records a recommendation or document citation, including automated research briefs. None implies human reading or endorsement.
@@ -67,7 +69,7 @@ Labels below are recovered link labels and may be abbreviations or descriptions,
 | RMT | [source](https://arxiv.org/abs/2207.06881) | assistant-discovered | metadata pending |
 | Compressive Transformer | [source](https://arxiv.org/abs/1911.05507) | assistant-discovered | metadata pending |
 | Mamba | [source](https://arxiv.org/abs/2312.00752) | assistant-discovered | metadata pending |
-| Titans | [source](https://arxiv.org/abs/2501.00663) | assistant-discovered | metadata pending |
+| Titans | [source](https://arxiv.org/abs/2501.00663) | assistant-discovered | verified 2026-10-31; [memory category](../library/memory-networks/arxiv-2501.00663.md) |
 | MemGPT | [source](https://arxiv.org/abs/2310.08560) | assistant-discovered | metadata pending |
 | Netflix GenRec | [source](https://arxiv.org/abs/2608.10257) | assistant-discovered | metadata pending |
 | Li et al. (2010) | [source](https://arxiv.org/abs/1003.0146) | assistant-discovered | metadata pending |

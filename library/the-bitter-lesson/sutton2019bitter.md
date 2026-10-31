@@ -11,6 +11,8 @@
 - Human reading status: unknown
 - Fresh independent scientific review: pending
 
+- Category: [The Bitter Lesson](README.md)
+
 ## Why it is in this library
 
 Explicitly selected as a key methodology in the initialization conversation.
@@ -21,7 +23,7 @@ Which approaches can keep improving as computation and learning opportunities gr
 
 ## Next action
 
-Review the proposed application in [the methodology card](../methodology/the-bitter-lesson.md).
+Review the proposed application in [the methodology card](../../methodology/the-bitter-lesson.md).
 
 ## Human reflection
 

@@ -10,6 +10,10 @@
 8. **Distill:** the Methodologist proposes a scoped pattern with evidence, alternatives, and counterexamples. Status is `proposed`, `human-confirmed`, `rejected`, or `superseded`.
 9. **Revisit:** record changed beliefs and reasons without erasing earlier uncertainty.
 
+For reusable scientific decision support, continue through the [research skill workflow](RESEARCH_SKILL.md): distill conditional methods, apply them to a concrete problem, and revise them from measured outcomes. Use separate scientific-review and project-adoption states; the personal-principle confirmation in step 8 does not validate a scientific claim.
+
 Queue states: `inbox`, `selected`, `reading`, `notes-ready`, `reviewed`, `synthesized`, `deferred`. A source’s queue state does not imply that the human personally read it. Keep human reading status separately as `unknown`, `skimmed`, or `read`.
 
 For a public repository, keep raw conversation excerpts and private reflections in `private/` (ignored), and runtime routing under Git’s common directory. Public notes may contain research metadata and deliberately prepared summaries, not native chat IDs or service bindings.
+
+For a question spanning a body of literature, use the [Literature Reviewer](../company/roles/literature-reviewer/agent.md) and [review workspace](../literature-reviews/README.md). Establish review type and criteria, log searches and screening, appraise included studies, and submit the synthesis for independent scientific review. Social posts can supply discovery leads; preserve their provenance and verify scientific claims against the cited primary studies.
