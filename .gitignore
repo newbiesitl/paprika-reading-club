@@ -7,3 +7,5 @@ __pycache__/
 !.env.example
 private/
 local-only/
+# Local discovery copy; canonical source is skills/paprika-ml-research/.
+.agents/skills/paprika-ml-research/

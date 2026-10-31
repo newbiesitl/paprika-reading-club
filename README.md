@@ -13,6 +13,7 @@ A personal research institute managed with Paprika Inc. The human Research Direc
 - [Memory Networks](library/memory-networks/README.md), starting with MemT-1 and related approaches
 - [Recovered-paper intake](intake/RECOVERED.md)
 - [Research agenda](agenda/AGENDA.md)
+- [Reusable ML research skill](docs/RESEARCH_SKILL.md) and [decision methods](methodology/methods/INDEX.md)
 - [Core research ideology](methodology/core-ideology.md): learning beyond imitation and world modeling
 - [The Bitter Lesson](methodology/the-bitter-lesson.md), a human-selected foundational methodology; [related reading category](library/the-bitter-lesson/README.md)
 - [Operating model](docs/OPERATING_MODEL.md) and [reading workflow](docs/READING_WORKFLOW.md)
